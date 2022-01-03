@@ -1,1 +1,15 @@
-{"deportes":[{"nombre":"Tenis","precio":"1000"},{"nombre":"Surf","precio":"500"}]}
+{
+  "deportes": [{
+    "nombre": "Tenis",
+    "precio": "870"
+  }, {
+    "nombre": "Surf",
+    "precio": "760"
+  }, {
+    "nombre": "Skate",
+    "precio": "350"
+  }, {
+    "nombre": "Escalada",
+    "precio": "700"
+  }]
+}
